@@ -71,3 +71,4 @@ export function AdvancedProtectionStrategies() {
 }
 // Improve wallet connection reliability - 2025-04-01
 // Add loading state to dashboard - 2025-04-01
+// Add link to RugPullBasics page - 2025-04-01
