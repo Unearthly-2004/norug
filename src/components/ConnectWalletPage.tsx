@@ -122,3 +122,4 @@ const ConnectWalletPage = () => {
 };
 
 export default ConnectWalletPage;
+// Add fallback UI for Analyze.tsx - 2025-04-01
