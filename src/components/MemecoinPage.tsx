@@ -130,4 +130,4 @@ const MemecoinPage: React.FC = () => {
   );
 };
 
-export default MemecoinPage;
+export default MemecoinPage;// Add fallback UI for Analyze.tsx - 2025-04-01
