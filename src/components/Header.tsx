@@ -39,3 +39,4 @@ export function Header() {
     </header>
   );
 }
+// Refactor GuardianLevels component - 2025-04-01
