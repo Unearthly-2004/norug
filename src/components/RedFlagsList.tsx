@@ -39,4 +39,4 @@ export function RedFlagsList() {
       </div>
     </div>
   );
-}
+}// Add loading state to dashboard - 2025-04-01
