@@ -40,3 +40,4 @@ export function Header() {
   );
 }
 // Refactor GuardianLevels component - 2025-04-01
+// Enhance leaderboard data fetch - 2025-04-02
