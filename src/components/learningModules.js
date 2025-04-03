@@ -65,3 +65,4 @@ export const learningModules = [
     }
   }
 ];
+// Add fallback UI for Analyze.tsx - 2025-04-03
