@@ -74,3 +74,4 @@ export function AdvancedProtectionStrategies() {
 // Add link to RugPullBasics page - 2025-04-01
 // Optimize learningModules.js imports - 2025-04-02
 // Fix header alignment issue - 2025-04-02
+// Add comments for maintainability - 2025-04-04
