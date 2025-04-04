@@ -81,3 +81,4 @@ const Leaderboard: React.FC = () => {
 
 export default Leaderboard;
 // Optimize learningModules.js imports - 2025-04-04
+// Add comments for maintainability - 2025-04-04
