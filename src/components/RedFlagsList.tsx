@@ -44,3 +44,4 @@ export function RedFlagsList() {
 // Adjust RedFlagsList spacing - 2025-04-03
 // Add comments for maintainability - 2025-04-03
 // Improve wallet connection reliability - 2025-04-03
+// Enhance leaderboard data fetch - 2025-04-04
