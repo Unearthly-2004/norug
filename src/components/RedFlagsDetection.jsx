@@ -70,3 +70,4 @@ export function RedFlagsDetection() {
   );
 }
 // Adjust RedFlagsList spacing - 2025-04-04
+// Improve wallet connection reliability - 2025-04-05
