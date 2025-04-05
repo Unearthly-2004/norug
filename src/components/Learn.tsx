@@ -98,3 +98,4 @@ export default Learn;
 // Refactor GuardianLevels component - 2025-04-03
 // Fix header alignment issue - 2025-04-04
 // Enhance leaderboard data fetch - 2025-04-05
+// Optimize learningModules.js imports - 2025-04-05
