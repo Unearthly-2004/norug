@@ -71,3 +71,4 @@ export function RugPullBasics() {
 }
 // Handle edge cases in transaction data - 2025-04-01
 // Improve UX on MemecoinPage - 2025-04-02
+// Optimize learningModules.js imports - 2025-04-05
