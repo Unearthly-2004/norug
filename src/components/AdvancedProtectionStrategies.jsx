@@ -77,3 +77,4 @@ export function AdvancedProtectionStrategies() {
 // Add comments for maintainability - 2025-04-04
 // Enhance leaderboard data fetch - 2025-04-06
 // Improve wallet connection reliability - 2025-04-06
+// Fix types in Learn.tsx - 2025-04-06
