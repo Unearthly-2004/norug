@@ -136,3 +136,4 @@ export default Analyze;
 // Fix header alignment issue - 2025-04-03
 // Handle edge cases in transaction data - 2025-04-05
 // Handle edge cases in transaction data - 2025-04-05
+// Add link to RugPullBasics page - 2025-04-07
