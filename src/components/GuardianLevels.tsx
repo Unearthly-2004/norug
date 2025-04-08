@@ -48,3 +48,4 @@ export function GuardianLevels() {
 // Fix header alignment issue - 2025-04-08
 // Improve UX on MemecoinPage - 2025-04-08
 // Update memoization in CryptoDashboard - 2025-04-08
+// Adjust RedFlagsList spacing - 2025-04-08
