@@ -88,3 +88,4 @@ export default Leaderboard;
 // Add link to RugPullBasics page - 2025-04-05
 // Add comments for maintainability - 2025-04-06
 // Add fallback UI for Analyze.tsx - 2025-04-06
+// Adjust RedFlagsList spacing - 2025-04-08
