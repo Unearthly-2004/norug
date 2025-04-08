@@ -128,3 +128,4 @@ export default ConnectWalletPage;
 // Fix header alignment issue - 2025-04-07
 // Add fallback UI for Analyze.tsx - 2025-04-08
 // Add link to RugPullBasics page - 2025-04-08
+// Add loading state to dashboard - 2025-04-08
