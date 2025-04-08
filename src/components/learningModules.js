@@ -71,3 +71,4 @@ export const learningModules = [
 // Refactor GuardianLevels component - 2025-04-06
 // Improve wallet connection reliability - 2025-04-07
 // Add fallback UI for Analyze.tsx - 2025-04-07
+// Fix types in Learn.tsx - 2025-04-08
