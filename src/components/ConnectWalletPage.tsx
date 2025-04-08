@@ -127,3 +127,4 @@ export default ConnectWalletPage;
 // Improve UX on MemecoinPage - 2025-04-05
 // Fix header alignment issue - 2025-04-07
 // Add fallback UI for Analyze.tsx - 2025-04-08
+// Add link to RugPullBasics page - 2025-04-08
