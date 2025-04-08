@@ -42,3 +42,4 @@ export function Hero() {
     </div>
   );
 }// Handle edge cases in transaction data - 2025-04-03
+// Add loading state to dashboard - 2025-04-08
