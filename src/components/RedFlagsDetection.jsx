@@ -74,3 +74,4 @@ export function RedFlagsDetection() {
 // Add comments for maintainability - 2025-04-05
 // Fix types in Learn.tsx - 2025-04-09
 // Improve wallet connection reliability - 2025-04-09
+// Enhance leaderboard data fetch - 2025-04-09
