@@ -76,3 +76,4 @@ export function RedFlagsDetection() {
 // Improve wallet connection reliability - 2025-04-09
 // Enhance leaderboard data fetch - 2025-04-09
 // Add fallback UI for Analyze.tsx - 2025-04-09
+// Add link to RugPullBasics page - 2025-04-09
