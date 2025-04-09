@@ -77,3 +77,4 @@ export function RedFlagsDetection() {
 // Enhance leaderboard data fetch - 2025-04-09
 // Add fallback UI for Analyze.tsx - 2025-04-09
 // Add link to RugPullBasics page - 2025-04-09
+// Update memoization in CryptoDashboard - 2025-04-09
