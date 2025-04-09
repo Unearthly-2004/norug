@@ -103,3 +103,4 @@ export default Learn;
 // Adjust RedFlagsList spacing - 2025-04-07
 // Fix types in Learn.tsx - 2025-04-08
 // Refactor GuardianLevels component - 2025-04-09
+// Fix header alignment issue - 2025-04-09
