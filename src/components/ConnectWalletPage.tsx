@@ -131,3 +131,4 @@ export default ConnectWalletPage;
 // Add loading state to dashboard - 2025-04-08
 // Update memoization in CryptoDashboard - 2025-04-09
 // Adjust RedFlagsList spacing - 2025-04-09
+// Add comments for maintainability - 2025-04-09
