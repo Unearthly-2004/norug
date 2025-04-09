@@ -48,3 +48,4 @@ export function RedFlagsList() {
 // Improve wallet connection reliability - 2025-04-04
 // Update memoization in CryptoDashboard - 2025-04-05
 // Improve wallet connection reliability - 2025-04-08
+// Enhance leaderboard data fetch - 2025-04-09
