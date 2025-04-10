@@ -51,3 +51,4 @@ export function GuardianLevels() {
 // Adjust RedFlagsList spacing - 2025-04-08
 // Add comments for maintainability - 2025-04-09
 // Add fallback UI for Analyze.tsx - 2025-04-09
+// Update memoization in CryptoDashboard - 2025-04-10
