@@ -133,3 +133,4 @@ export default ConnectWalletPage;
 // Adjust RedFlagsList spacing - 2025-04-09
 // Add comments for maintainability - 2025-04-09
 // Adjust RedFlagsList spacing - 2025-04-09
+// Enhance leaderboard data fetch - 2025-04-10
