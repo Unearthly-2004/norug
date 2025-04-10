@@ -139,3 +139,4 @@ export default Analyze;
 // Add link to RugPullBasics page - 2025-04-07
 // Add comments for maintainability - 2025-04-07
 // Update memoization in CryptoDashboard - 2025-04-10
+// Adjust RedFlagsList spacing - 2025-04-10
