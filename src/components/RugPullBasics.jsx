@@ -73,3 +73,4 @@ export function RugPullBasics() {
 // Improve UX on MemecoinPage - 2025-04-02
 // Optimize learningModules.js imports - 2025-04-05
 // Add link to RugPullBasics page - 2025-04-05
+// Add comments for maintainability - 2025-04-11
