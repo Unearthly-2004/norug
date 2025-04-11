@@ -76,3 +76,4 @@ export const learningModules = [
 // Improve UX on MemecoinPage - 2025-04-10
 // Fix header alignment issue - 2025-04-11
 // Improve UX on MemecoinPage - 2025-04-11
+// Refactor GuardianLevels component - 2025-04-11
