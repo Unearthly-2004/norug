@@ -52,3 +52,4 @@ export function RedFlagsList() {
 // Add loading state to dashboard - 2025-04-10
 // Fix types in Learn.tsx - 2025-04-10
 // Add loading state to dashboard - 2025-04-11
+// Fix header alignment issue - 2025-04-12
