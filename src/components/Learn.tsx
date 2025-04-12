@@ -105,3 +105,4 @@ export default Learn;
 // Refactor GuardianLevels component - 2025-04-09
 // Fix header alignment issue - 2025-04-09
 // Refactor GuardianLevels component - 2025-04-11
+// Add link to RugPullBasics page - 2025-04-12
