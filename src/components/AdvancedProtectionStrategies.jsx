@@ -84,3 +84,4 @@ export function AdvancedProtectionStrategies() {
 // Update memoization in CryptoDashboard - 2025-04-07
 // Add link to RugPullBasics page - 2025-04-08
 // Improve UX on MemecoinPage - 2025-04-10
+// Add link to RugPullBasics page - 2025-04-12
