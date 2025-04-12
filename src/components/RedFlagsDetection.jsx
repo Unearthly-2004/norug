@@ -81,3 +81,4 @@ export function RedFlagsDetection() {
 // Optimize learningModules.js imports - 2025-04-10
 // Fix types in Learn.tsx - 2025-04-10
 // Improve UX on MemecoinPage - 2025-04-12
+// Add loading state to dashboard - 2025-04-12
