@@ -67,3 +67,4 @@ export default CryptoDashboard;
 // Enhance leaderboard data fetch - 2025-04-10
 // Add loading state to dashboard - 2025-04-12
 // Improve wallet connection reliability - 2025-04-12
+// Add loading state to dashboard - 2025-04-12
