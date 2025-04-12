@@ -65,3 +65,4 @@ export default CryptoDashboard;
 // Enhance leaderboard data fetch - 2025-04-09
 // Improve UX on MemecoinPage - 2025-04-10
 // Enhance leaderboard data fetch - 2025-04-10
+// Add loading state to dashboard - 2025-04-12
