@@ -48,3 +48,4 @@ export function Header() {
 // Add comments for maintainability - 2025-04-10
 // Refactor GuardianLevels component - 2025-04-11
 // Handle edge cases in transaction data - 2025-04-11
+// Optimize learningModules.js imports - 2025-04-13
