@@ -86,3 +86,4 @@ export function AdvancedProtectionStrategies() {
 // Improve UX on MemecoinPage - 2025-04-10
 // Add link to RugPullBasics page - 2025-04-12
 // Handle edge cases in transaction data - 2025-04-12
+// Optimize learningModules.js imports - 2025-04-13
