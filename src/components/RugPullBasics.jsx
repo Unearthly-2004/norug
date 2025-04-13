@@ -75,3 +75,4 @@ export function RugPullBasics() {
 // Add link to RugPullBasics page - 2025-04-05
 // Add comments for maintainability - 2025-04-11
 // Fix header alignment issue - 2025-04-13
+// Refactor GuardianLevels component - 2025-04-13
