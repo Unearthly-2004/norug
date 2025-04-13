@@ -1,4 +1,8 @@
-flask
-groclake
-streamlit
-requests
+remember adding this in data science resume--> 
+
+\item \textbf{Jewelry Shop Dashboard}
+    \begin{itemize}[leftmargin=2em]
+        \item Built Power BI dashboards to track revenue and customer data; reduced report errors by \textbf{70\%}.
+        \item Integrated Excel and SQL sources; improved decision-making speed by \textbf{35\%}.
+    \end{itemize}
+\end{itemize}
