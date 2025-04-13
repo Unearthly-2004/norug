@@ -38,10 +38,12 @@ const MemecoinPage: React.FC = () => {
     const fetchMemecoins = async () => {
       try {
         const response = await fetch(
+
           'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&category=meme-token&order=market_cap_desc&per_page=100&page=1&sparkline=false',
           {
             headers: {
               'x-cg-demo-api-key': import.meta.env.VITE_CG_API_KEY
+
             }
           }
         );
