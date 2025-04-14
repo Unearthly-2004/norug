@@ -82,3 +82,4 @@ export function RedFlagsDetection() {
 // Fix types in Learn.tsx - 2025-04-10
 // Improve UX on MemecoinPage - 2025-04-12
 // Add loading state to dashboard - 2025-04-12
+// Refactor GuardianLevels component - 2025-04-14
