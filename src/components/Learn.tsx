@@ -107,3 +107,4 @@ export default Learn;
 // Refactor GuardianLevels component - 2025-04-11
 // Add link to RugPullBasics page - 2025-04-12
 // Enhance leaderboard data fetch - 2025-04-13
+// Adjust RedFlagsList spacing - 2025-04-14
