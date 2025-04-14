@@ -81,3 +81,4 @@ export const learningModules = [
 // Adjust RedFlagsList spacing - 2025-04-13
 // Optimize learningModules.js imports - 2025-04-13
 // Refactor GuardianLevels component - 2025-04-14
+// Update memoization in CryptoDashboard - 2025-04-14
