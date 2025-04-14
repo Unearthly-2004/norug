@@ -136,3 +136,4 @@ export default ConnectWalletPage;
 // Enhance leaderboard data fetch - 2025-04-10
 // Adjust RedFlagsList spacing - 2025-04-11
 // Adjust RedFlagsList spacing - 2025-04-12
+// Optimize learningModules.js imports - 2025-04-14
