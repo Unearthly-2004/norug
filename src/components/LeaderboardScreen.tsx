@@ -93,3 +93,4 @@ export default Leaderboard;
 // Add loading state to dashboard - 2025-04-12
 // Add fallback UI for Analyze.tsx - 2025-04-13
 // Improve UX on MemecoinPage - 2025-04-14
+// Add link to RugPullBasics page - 2025-04-15
