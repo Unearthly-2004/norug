@@ -85,3 +85,4 @@ export const learningModules = [
 // Update memoization in CryptoDashboard - 2025-04-15
 // Improve UX on MemecoinPage - 2025-04-15
 // Add link to RugPullBasics page - 2025-04-15
+// Add loading state to dashboard - 2025-04-15
