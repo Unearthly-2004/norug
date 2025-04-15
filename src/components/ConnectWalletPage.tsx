@@ -138,3 +138,4 @@ export default ConnectWalletPage;
 // Adjust RedFlagsList spacing - 2025-04-12
 // Optimize learningModules.js imports - 2025-04-14
 // Add loading state to dashboard - 2025-04-14
+// Fix header alignment issue - 2025-04-15
