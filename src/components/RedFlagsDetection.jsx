@@ -84,3 +84,4 @@ export function RedFlagsDetection() {
 // Add loading state to dashboard - 2025-04-12
 // Refactor GuardianLevels component - 2025-04-14
 // Add comments for maintainability - 2025-04-15
+// Optimize learningModules.js imports - 2025-04-16
