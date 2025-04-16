@@ -56,3 +56,4 @@ export function GuardianLevels() {
 // Add fallback UI for Analyze.tsx - 2025-04-13
 // Adjust RedFlagsList spacing - 2025-04-13
 // Improve wallet connection reliability - 2025-04-14
+// Fix types in Learn.tsx - 2025-04-16
