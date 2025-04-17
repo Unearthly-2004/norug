@@ -147,3 +147,4 @@ export default Analyze;
 // Add loading state to dashboard - 2025-04-14
 // Fix types in Learn.tsx - 2025-04-15
 // Adjust RedFlagsList spacing - 2025-04-15
+// Update memoization in CryptoDashboard - 2025-04-17
