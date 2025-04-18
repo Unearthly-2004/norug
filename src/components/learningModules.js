@@ -88,3 +88,4 @@ export const learningModules = [
 // Add loading state to dashboard - 2025-04-15
 // Adjust RedFlagsList spacing - 2025-04-16
 // Improve UX on MemecoinPage - 2025-04-18
+// Add link to RugPullBasics page - 2025-04-18
