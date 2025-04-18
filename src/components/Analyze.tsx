@@ -149,3 +149,4 @@ export default Analyze;
 // Adjust RedFlagsList spacing - 2025-04-15
 // Update memoization in CryptoDashboard - 2025-04-17
 // Add comments for maintainability - 2025-04-17
+// Enhance leaderboard data fetch - 2025-04-18
