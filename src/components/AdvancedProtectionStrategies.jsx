@@ -90,3 +90,4 @@ export function AdvancedProtectionStrategies() {
 // Adjust RedFlagsList spacing - 2025-04-14
 // Refactor GuardianLevels component - 2025-04-14
 // Add loading state to dashboard - 2025-04-14
+// Optimize learningModules.js imports - 2025-04-18
