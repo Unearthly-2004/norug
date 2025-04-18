@@ -95,3 +95,4 @@ export default Leaderboard;
 // Improve UX on MemecoinPage - 2025-04-14
 // Add link to RugPullBasics page - 2025-04-15
 // Add loading state to dashboard - 2025-04-17
+// Improve wallet connection reliability - 2025-04-18
