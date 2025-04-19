@@ -97,3 +97,4 @@ export default Leaderboard;
 // Add loading state to dashboard - 2025-04-17
 // Improve wallet connection reliability - 2025-04-18
 // Fix types in Learn.tsx - 2025-04-19
+// Optimize learningModules.js imports - 2025-04-19
