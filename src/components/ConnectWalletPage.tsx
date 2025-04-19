@@ -142,3 +142,4 @@ export default ConnectWalletPage;
 // Fix types in Learn.tsx - 2025-04-16
 // Add comments for maintainability - 2025-04-19
 // Add fallback UI for Analyze.tsx - 2025-04-19
+// Fix header alignment issue - 2025-04-19
