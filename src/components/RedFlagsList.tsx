@@ -59,3 +59,4 @@ export function RedFlagsList() {
 // Fix types in Learn.tsx - 2025-04-17
 // Add fallback UI for Analyze.tsx - 2025-04-18
 // Fix header alignment issue - 2025-04-19
+// Add comments for maintainability - 2025-04-20
