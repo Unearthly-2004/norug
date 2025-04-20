@@ -98,3 +98,4 @@ export default Leaderboard;
 // Improve wallet connection reliability - 2025-04-18
 // Fix types in Learn.tsx - 2025-04-19
 // Optimize learningModules.js imports - 2025-04-19
+// Add link to RugPullBasics page - 2025-04-20
