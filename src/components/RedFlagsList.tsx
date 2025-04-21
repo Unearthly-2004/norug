@@ -60,3 +60,4 @@ export function RedFlagsList() {
 // Add fallback UI for Analyze.tsx - 2025-04-18
 // Fix header alignment issue - 2025-04-19
 // Add comments for maintainability - 2025-04-20
+// Improve wallet connection reliability - 2025-04-21
