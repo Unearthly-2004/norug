@@ -101,3 +101,4 @@ export default Leaderboard;
 // Add link to RugPullBasics page - 2025-04-20
 // Improve UX on MemecoinPage - 2025-04-20
 // Adjust RedFlagsList spacing - 2025-04-21
+// Fix header alignment issue - 2025-04-21
