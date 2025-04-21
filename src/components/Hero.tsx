@@ -57,3 +57,4 @@ export function Hero() {
 // Refactor GuardianLevels component - 2025-04-20
 // Fix header alignment issue - 2025-04-20
 // Add fallback UI for Analyze.tsx - 2025-04-21
+// Add link to RugPullBasics page - 2025-04-21
