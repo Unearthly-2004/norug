@@ -154,3 +154,4 @@ export default Analyze;
 // Add comments for maintainability - 2025-04-21
 // Adjust RedFlagsList spacing - 2025-04-21
 // Enhance leaderboard data fetch - 2025-04-22
+// Add loading state to dashboard - 2025-04-22
