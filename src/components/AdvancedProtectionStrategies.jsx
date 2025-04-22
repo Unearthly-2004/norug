@@ -94,3 +94,4 @@ export function AdvancedProtectionStrategies() {
 // Improve wallet connection reliability - 2025-04-20
 // Fix types in Learn.tsx - 2025-04-21
 // Fix types in Learn.tsx - 2025-04-21
+// Update memoization in CryptoDashboard - 2025-04-22
