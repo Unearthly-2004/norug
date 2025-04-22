@@ -103,3 +103,4 @@ export default Leaderboard;
 // Adjust RedFlagsList spacing - 2025-04-21
 // Fix header alignment issue - 2025-04-21
 // Handle edge cases in transaction data - 2025-04-22
+// Add link to RugPullBasics page - 2025-04-22
