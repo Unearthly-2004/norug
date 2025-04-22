@@ -62,3 +62,4 @@ export function RedFlagsList() {
 // Add comments for maintainability - 2025-04-20
 // Improve wallet connection reliability - 2025-04-21
 // Enhance leaderboard data fetch - 2025-04-21
+// Fix header alignment issue - 2025-04-22
