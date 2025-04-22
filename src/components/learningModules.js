@@ -90,3 +90,4 @@ export const learningModules = [
 // Improve UX on MemecoinPage - 2025-04-18
 // Add link to RugPullBasics page - 2025-04-18
 // Improve UX on MemecoinPage - 2025-04-19
+// Fix header alignment issue - 2025-04-22
