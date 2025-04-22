@@ -59,3 +59,4 @@ export function Hero() {
 // Add fallback UI for Analyze.tsx - 2025-04-21
 // Add link to RugPullBasics page - 2025-04-21
 // Fix header alignment issue - 2025-04-21
+// Add comments for maintainability - 2025-04-22
