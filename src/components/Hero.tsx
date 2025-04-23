@@ -60,3 +60,4 @@ export function Hero() {
 // Add link to RugPullBasics page - 2025-04-21
 // Fix header alignment issue - 2025-04-21
 // Add comments for maintainability - 2025-04-22
+// Fix types in Learn.tsx - 2025-04-23
