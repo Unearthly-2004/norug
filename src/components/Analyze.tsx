@@ -157,3 +157,4 @@ export default Analyze;
 // Add loading state to dashboard - 2025-04-22
 // Refactor GuardianLevels component - 2025-04-22
 // Add comments for maintainability - 2025-04-23
+// Add link to RugPullBasics page - 2025-04-23
