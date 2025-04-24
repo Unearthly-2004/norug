@@ -64,3 +64,4 @@ export function RedFlagsList() {
 // Enhance leaderboard data fetch - 2025-04-21
 // Fix header alignment issue - 2025-04-22
 // Add link to RugPullBasics page - 2025-04-23
+// Fix header alignment issue - 2025-04-24
