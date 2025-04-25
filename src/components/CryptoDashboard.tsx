@@ -76,3 +76,4 @@ export default CryptoDashboard;
 // Improve wallet connection reliability - 2025-04-23
 // Add loading state to dashboard - 2025-04-23
 // Refactor GuardianLevels component - 2025-04-23
+// Fix types in Learn.tsx - 2025-04-25
