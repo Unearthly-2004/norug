@@ -108,3 +108,4 @@ export default Leaderboard;
 // Handle edge cases in transaction data - 2025-04-23
 // Fix types in Learn.tsx - 2025-04-25
 // Enhance leaderboard data fetch - 2025-04-25
+// Fix types in Learn.tsx - 2025-04-25
