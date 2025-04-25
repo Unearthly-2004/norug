@@ -85,3 +85,4 @@ export function RugPullBasics() {
 // Handle edge cases in transaction data - 2025-04-24
 // Handle edge cases in transaction data - 2025-04-24
 // Improve wallet connection reliability - 2025-04-24
+// Adjust RedFlagsList spacing - 2025-04-25
