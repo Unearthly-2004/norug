@@ -64,3 +64,4 @@ export function GuardianLevels() {
 // Update memoization in CryptoDashboard - 2025-04-19
 // Add link to RugPullBasics page - 2025-04-19
 // Update memoization in CryptoDashboard - 2025-04-22
+// Adjust RedFlagsList spacing - 2025-04-26
