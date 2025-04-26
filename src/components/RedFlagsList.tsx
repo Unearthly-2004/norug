@@ -66,3 +66,4 @@ export function RedFlagsList() {
 // Add link to RugPullBasics page - 2025-04-23
 // Fix header alignment issue - 2025-04-24
 // Optimize learningModules.js imports - 2025-04-25
+// Update memoization in CryptoDashboard - 2025-04-26
