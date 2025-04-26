@@ -150,3 +150,4 @@ export default ConnectWalletPage;
 // Improve UX on MemecoinPage - 2025-04-25
 // Add comments for maintainability - 2025-04-26
 // Add loading state to dashboard - 2025-04-26
+// Update memoization in CryptoDashboard - 2025-04-26
