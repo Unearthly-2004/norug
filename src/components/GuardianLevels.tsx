@@ -65,3 +65,4 @@ export function GuardianLevels() {
 // Add link to RugPullBasics page - 2025-04-19
 // Update memoization in CryptoDashboard - 2025-04-22
 // Adjust RedFlagsList spacing - 2025-04-26
+// Fix header alignment issue - 2025-04-26
