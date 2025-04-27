@@ -116,3 +116,4 @@ export default Learn;
 // Enhance leaderboard data fetch - 2025-04-19
 // Add comments for maintainability - 2025-04-23
 // Handle edge cases in transaction data - 2025-04-26
+// Add link to RugPullBasics page - 2025-04-27
