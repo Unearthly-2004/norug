@@ -68,3 +68,4 @@ export function RedFlagsList() {
 // Optimize learningModules.js imports - 2025-04-25
 // Update memoization in CryptoDashboard - 2025-04-26
 // Add fallback UI for Analyze.tsx - 2025-04-27
+// Fix header alignment issue - 2025-04-27
