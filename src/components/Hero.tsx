@@ -65,3 +65,4 @@ export function Hero() {
 // Optimize learningModules.js imports - 2025-04-25
 // Fix types in Learn.tsx - 2025-04-25
 // Fix header alignment issue - 2025-04-27
+// Enhance leaderboard data fetch - 2025-04-27
