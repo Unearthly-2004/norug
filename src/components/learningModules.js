@@ -98,3 +98,4 @@ export const learningModules = [
 // Handle edge cases in transaction data - 2025-04-27
 // Update memoization in CryptoDashboard - 2025-04-28
 // Add link to RugPullBasics page - 2025-04-28
+// Optimize learningModules.js imports - 2025-04-28
