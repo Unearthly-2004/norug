@@ -66,3 +66,4 @@ export function GuardianLevels() {
 // Update memoization in CryptoDashboard - 2025-04-22
 // Adjust RedFlagsList spacing - 2025-04-26
 // Fix header alignment issue - 2025-04-26
+// Add comments for maintainability - 2025-04-28
