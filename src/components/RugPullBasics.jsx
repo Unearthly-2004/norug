@@ -88,3 +88,4 @@ export function RugPullBasics() {
 // Adjust RedFlagsList spacing - 2025-04-25
 // Improve wallet connection reliability - 2025-04-26
 // Add loading state to dashboard - 2025-04-26
+// Adjust RedFlagsList spacing - 2025-04-28
