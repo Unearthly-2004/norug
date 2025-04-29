@@ -118,3 +118,4 @@ export default Learn;
 // Handle edge cases in transaction data - 2025-04-26
 // Add link to RugPullBasics page - 2025-04-27
 // Fix types in Learn.tsx - 2025-04-27
+// Update memoization in CryptoDashboard - 2025-04-29
