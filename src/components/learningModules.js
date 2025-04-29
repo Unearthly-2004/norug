@@ -100,3 +100,4 @@ export const learningModules = [
 // Add link to RugPullBasics page - 2025-04-28
 // Optimize learningModules.js imports - 2025-04-28
 // Add link to RugPullBasics page - 2025-04-29
+// Add fallback UI for Analyze.tsx - 2025-04-29
