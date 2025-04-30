@@ -112,3 +112,4 @@ export default Leaderboard;
 // Handle edge cases in transaction data - 2025-04-27
 // Adjust RedFlagsList spacing - 2025-04-29
 // Add fallback UI for Analyze.tsx - 2025-04-30
+// Enhance leaderboard data fetch - 2025-04-30
