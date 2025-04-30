@@ -66,3 +66,4 @@ export function Hero() {
 // Fix types in Learn.tsx - 2025-04-25
 // Fix header alignment issue - 2025-04-27
 // Enhance leaderboard data fetch - 2025-04-27
+// Update memoization in CryptoDashboard - 2025-04-30
