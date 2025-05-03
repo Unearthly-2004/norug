@@ -6,3 +6,4 @@ Setup smart contract ABI interface
 Add dummy token data for testing
 Improve address parsing logic
 Fix CORS issue in backend integration
+Initialize README with overview
