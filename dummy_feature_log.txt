@@ -4,3 +4,4 @@ Add transaction viewer page
 Fix missing CSS for wallet modal
 Setup smart contract ABI interface
 Add dummy token data for testing
+Improve address parsing logic
