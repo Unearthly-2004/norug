@@ -49,3 +49,4 @@ Cleaned up console warnings #48
 Refactored smart contract handler #49
 Minor UI fixes for mobile responsiveness #50
 Minor UI fixes for mobile responsiveness #51
+Tested cross-chain bridging module #52
