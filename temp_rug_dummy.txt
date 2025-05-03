@@ -20,3 +20,4 @@ Tested multisig support #19
 Improved performance on dashboard load #20
 Implemented user role detection #21
 Tested cross-chain bridging module #22
+Refactored smart contract handler #23
