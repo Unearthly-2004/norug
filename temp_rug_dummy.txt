@@ -196,3 +196,4 @@ Added loading spinner for balance fetch #195
 Tested cross-chain bridging module #196
 Improved performance on dashboard load #197
 Minor UI fixes for mobile responsiveness #198
+Added dark mode toggle #199
