@@ -73,3 +73,4 @@ Initial layout for NFT viewer #72
 Refactored transaction filter logic #73
 Created staking pool card component #74
 Integrated ethers.js for token transfers #75
+Refactored transaction filter logic #76
