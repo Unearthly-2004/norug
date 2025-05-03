@@ -194,3 +194,4 @@ Implemented user role detection #193
 Tested multisig support #194
 Added loading spinner for balance fetch #195
 Tested cross-chain bridging module #196
+Improved performance on dashboard load #197
