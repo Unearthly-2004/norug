@@ -55,3 +55,4 @@ Refactored transaction filter logic #54
 Initial layout for NFT viewer #55
 Implemented user role detection #56
 Refactored transaction filter logic #57
+Added dark mode toggle #58
