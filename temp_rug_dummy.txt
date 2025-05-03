@@ -149,3 +149,4 @@ Initial layout for NFT viewer #148
 Added dark mode toggle #149
 Tested cross-chain bridging module #150
 Tested cross-chain bridging module #151
+Created staking pool card component #152
