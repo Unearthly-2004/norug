@@ -30,3 +30,4 @@ Initial layout for NFT viewer #29
 Fixed race condition in wallet switch #30
 Added loading spinner for balance fetch #31
 Minor UI fixes for mobile responsiveness #32
+Refactored smart contract handler #33
