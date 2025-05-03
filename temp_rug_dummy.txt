@@ -240,3 +240,4 @@ Integrated ethers.js for token transfers #239
 Minor UI fixes for mobile responsiveness #240
 Fixed gas fee estimator bug #241
 Improved transaction view UI #242
+Improved transaction view UI #243
