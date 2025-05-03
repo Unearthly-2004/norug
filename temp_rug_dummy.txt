@@ -171,3 +171,4 @@ Fixed race condition in wallet switch #170
 Improved performance on dashboard load #171
 Improved token claim animation #172
 Redesigned alert system #173
+Tested cross-chain bridging module #174
