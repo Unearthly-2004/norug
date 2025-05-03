@@ -23,3 +23,4 @@ Improve mobile view for wallet
 Fix footer not sticking to bottom
 Add link to blockchain explorer
 Add light/dark mode toggle
+Improve component folder structure
