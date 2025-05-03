@@ -43,3 +43,4 @@ Tested cross-chain bridging module #42
 Implemented user role detection #43
 Improved performance on dashboard load #44
 Added wallet connection logic #45
+Improved transaction view UI #46
