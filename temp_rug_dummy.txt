@@ -14,3 +14,4 @@ Fixed race condition in wallet switch #13
 Tested cross-chain bridging module #14
 Cleaned up console warnings #15
 Initial layout for NFT viewer #16
+Refactored transaction filter logic #17
