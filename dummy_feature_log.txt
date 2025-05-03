@@ -2,3 +2,4 @@ Add wallet connect UI
 Implement basic token validation
 Add transaction viewer page
 Fix missing CSS for wallet modal
+Setup smart contract ABI interface
