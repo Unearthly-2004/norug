@@ -20,3 +20,4 @@ Add animation to transaction card
 Introduce offline wallet mode
 Implement backup key storage
 Improve mobile view for wallet
+Fix footer not sticking to bottom
