@@ -237,3 +237,4 @@ Added loading spinner for balance fetch #236
 Tested multisig support #237
 Refactored transaction filter logic #238
 Integrated ethers.js for token transfers #239
+Minor UI fixes for mobile responsiveness #240
