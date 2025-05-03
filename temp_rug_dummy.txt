@@ -104,3 +104,4 @@ Initial layout for NFT viewer #103
 Cleaned up console warnings #104
 Fixed race condition in wallet switch #105
 Added dark mode toggle #106
+Integrated ethers.js for token transfers #107
