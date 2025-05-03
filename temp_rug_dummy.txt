@@ -175,3 +175,4 @@ Tested cross-chain bridging module #174
 Improved transaction view UI #175
 Minor UI fixes for mobile responsiveness #176
 Initial layout for NFT viewer #177
+Redesigned alert system #178
