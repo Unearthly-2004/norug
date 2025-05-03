@@ -16,3 +16,4 @@ Improve error display on wallet fail
 Add example wallet addresses
 Enable testnet configuration
 Refactor styles to tailwind
+Add animation to transaction card
