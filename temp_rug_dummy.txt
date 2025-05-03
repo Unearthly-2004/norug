@@ -168,3 +168,4 @@ Added dark mode toggle #167
 Minor UI fixes for mobile responsiveness #168
 Tested multisig support #169
 Fixed race condition in wallet switch #170
+Improved performance on dashboard load #171
