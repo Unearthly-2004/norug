@@ -12,3 +12,4 @@ Add local storage sync for wallet
 Refactor contract event listener
 Optimize loop in token checker
 Add badge for license
+Improve error display on wallet fail
