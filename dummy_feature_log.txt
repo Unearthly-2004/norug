@@ -1,1 +1,2 @@
 Add wallet connect UI
+Implement basic token validation
