@@ -219,3 +219,4 @@ Tested multisig support #218
 Improved performance on dashboard load #219
 Simplified RPC network handling #220
 Redesigned alert system #221
+Tested cross-chain bridging module #222
