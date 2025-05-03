@@ -47,3 +47,4 @@ Improved transaction view UI #46
 Cleaned up console warnings #47
 Cleaned up console warnings #48
 Refactored smart contract handler #49
+Minor UI fixes for mobile responsiveness #50
