@@ -26,3 +26,4 @@ Add light/dark mode toggle
 Improve component folder structure
 Add dev instructions to README
 Remove unused imports
+Simplify route structure
