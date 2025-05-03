@@ -187,3 +187,4 @@ Created staking pool card component #186
 Simplified RPC network handling #187
 Improved performance on dashboard load #188
 Implemented user role detection #189
+Fixed gas fee estimator bug #190
