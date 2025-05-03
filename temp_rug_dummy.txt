@@ -164,3 +164,4 @@ Refactored transaction filter logic #163
 Initial layout for NFT viewer #164
 Created staking pool card component #165
 Simplified RPC network handling #166
+Added dark mode toggle #167
