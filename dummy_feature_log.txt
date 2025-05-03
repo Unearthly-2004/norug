@@ -27,3 +27,4 @@ Improve component folder structure
 Add dev instructions to README
 Remove unused imports
 Simplify route structure
+Fix transaction history rendering
