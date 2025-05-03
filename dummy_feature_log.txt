@@ -8,3 +8,4 @@ Improve address parsing logic
 Fix CORS issue in backend integration
 Initialize README with overview
 Fix typo in function name
+Add local storage sync for wallet
