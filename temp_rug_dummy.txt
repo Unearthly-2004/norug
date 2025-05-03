@@ -119,3 +119,4 @@ Added loading spinner for balance fetch #118
 Fixed gas fee estimator bug #119
 Initial layout for NFT viewer #120
 Added dark mode toggle #121
+Improved performance on dashboard load #122
