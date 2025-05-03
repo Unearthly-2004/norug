@@ -184,3 +184,4 @@ Improved token claim animation #183
 Added dark mode toggle #184
 Refactored transaction filter logic #185
 Created staking pool card component #186
+Simplified RPC network handling #187
