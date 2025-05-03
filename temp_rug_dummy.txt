@@ -109,3 +109,4 @@ Refactored smart contract handler #108
 Added dark mode toggle #109
 Created staking pool card component #110
 Added dark mode toggle #111
+Added loading spinner for balance fetch #112
