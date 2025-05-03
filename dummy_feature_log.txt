@@ -17,3 +17,4 @@ Add example wallet addresses
 Enable testnet configuration
 Refactor styles to tailwind
 Add animation to transaction card
+Introduce offline wallet mode
