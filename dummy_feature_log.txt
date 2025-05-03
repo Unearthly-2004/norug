@@ -13,3 +13,4 @@ Refactor contract event listener
 Optimize loop in token checker
 Add badge for license
 Improve error display on wallet fail
+Add example wallet addresses
