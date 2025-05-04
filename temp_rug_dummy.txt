@@ -8,3 +8,4 @@ Improved token claim animation #7
 Minor UI fixes for mobile responsiveness #8
 Added wallet connection logic #9
 Redesigned alert system #10
+Refactored transaction filter logic #11
