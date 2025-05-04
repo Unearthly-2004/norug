@@ -218,3 +218,4 @@ Tested multisig support #217
 Tested multisig support #218
 Improved performance on dashboard load #219
 Simplified RPC network handling #220
+Redesigned alert system #221
