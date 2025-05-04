@@ -5,3 +5,4 @@ Improved performance on dashboard load #4
 Implemented user role detection #5
 Refactored transaction filter logic #6
 Improved token claim animation #7
+Minor UI fixes for mobile responsiveness #8
