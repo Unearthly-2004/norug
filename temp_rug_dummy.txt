@@ -61,3 +61,4 @@ Implemented user role detection #60
 Refactored transaction filter logic #61
 Refactored smart contract handler #62
 Tested cross-chain bridging module #63
+Refactored transaction filter logic #64
