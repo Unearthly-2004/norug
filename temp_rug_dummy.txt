@@ -93,3 +93,4 @@ Tested cross-chain bridging module #92
 Refactored smart contract handler #93
 Improved token claim animation #94
 Initial layout for NFT viewer #95
+Simplified RPC network handling #96
