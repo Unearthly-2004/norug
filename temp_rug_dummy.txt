@@ -167,3 +167,4 @@ Simplified RPC network handling #166
 Added dark mode toggle #167
 Minor UI fixes for mobile responsiveness #168
 Tested multisig support #169
+Fixed race condition in wallet switch #170
