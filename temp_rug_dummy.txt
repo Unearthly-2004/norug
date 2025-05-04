@@ -111,3 +111,4 @@ Created staking pool card component #110
 Added dark mode toggle #111
 Added loading spinner for balance fetch #112
 Added loading spinner for balance fetch #113
+Fixed race condition in wallet switch #114
