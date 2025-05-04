@@ -65,3 +65,4 @@ Refactored transaction filter logic #64
 Implemented user role detection #65
 Added wallet connection logic #66
 Tested multisig support #67
+Improved transaction view UI #68
