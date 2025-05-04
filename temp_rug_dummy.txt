@@ -235,3 +235,4 @@ Tested cross-chain bridging module #234
 Improved token claim animation #235
 Added loading spinner for balance fetch #236
 Tested multisig support #237
+Refactored transaction filter logic #238
