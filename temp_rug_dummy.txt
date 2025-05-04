@@ -1,1 +1,2 @@
 Minor UI fixes for mobile responsiveness #1
+Improved token claim animation #2
