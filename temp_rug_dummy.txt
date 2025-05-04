@@ -114,3 +114,4 @@ Added loading spinner for balance fetch #113
 Fixed race condition in wallet switch #114
 Minor UI fixes for mobile responsiveness #115
 Cleaned up console warnings #116
+Tested multisig support #117
