@@ -208,3 +208,4 @@ Created staking pool card component #207
 Minor UI fixes for mobile responsiveness #208
 Tested multisig support #209
 Created staking pool card component #210
+Minor UI fixes for mobile responsiveness #211
