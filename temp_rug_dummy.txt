@@ -123,3 +123,4 @@ Improved performance on dashboard load #122
 Tested cross-chain bridging module #123
 Cleaned up console warnings #124
 Fixed race condition in wallet switch #125
+Refactored smart contract handler #126
