@@ -210,3 +210,4 @@ Tested multisig support #209
 Created staking pool card component #210
 Minor UI fixes for mobile responsiveness #211
 Integrated ethers.js for token transfers #212
+Tested multisig support #213
