@@ -198,3 +198,4 @@ Improved performance on dashboard load #197
 Minor UI fixes for mobile responsiveness #198
 Added dark mode toggle #199
 Initial layout for NFT viewer #200
+Integrated ethers.js for token transfers #201
