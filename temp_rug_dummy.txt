@@ -99,3 +99,4 @@ Redesigned alert system #98
 Initial layout for NFT viewer #99
 Added wallet connection logic #100
 Refactored transaction filter logic #101
+Redesigned alert system #102
