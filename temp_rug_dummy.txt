@@ -27,3 +27,4 @@ Redesigned alert system #26
 Improved performance on dashboard load #27
 Fixed race condition in wallet switch #28
 Initial layout for NFT viewer #29
+Fixed race condition in wallet switch #30
