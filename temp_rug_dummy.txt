@@ -177,3 +177,4 @@ Minor UI fixes for mobile responsiveness #176
 Initial layout for NFT viewer #177
 Redesigned alert system #178
 Added wallet connection logic #179
+Refactored transaction filter logic #180
