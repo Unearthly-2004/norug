@@ -153,3 +153,4 @@ Created staking pool card component #152
 Tested cross-chain bridging module #153
 Refactored transaction filter logic #154
 Fixed race condition in wallet switch #155
+Improved token claim animation #156
