@@ -228,3 +228,4 @@ Tested cross-chain bridging module #227
 Cleaned up console warnings #228
 Redesigned alert system #229
 Created staking pool card component #230
+Fixed gas fee estimator bug #231
