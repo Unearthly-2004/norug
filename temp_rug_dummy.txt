@@ -116,3 +116,4 @@ Minor UI fixes for mobile responsiveness #115
 Cleaned up console warnings #116
 Tested multisig support #117
 Added loading spinner for balance fetch #118
+Fixed gas fee estimator bug #119
