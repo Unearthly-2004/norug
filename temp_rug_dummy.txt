@@ -247,3 +247,4 @@ Improved performance on dashboard load #246
 Added loading spinner for balance fetch #247
 Initial layout for NFT viewer #248
 Tested multisig support #249
+Tested cross-chain bridging module #250
