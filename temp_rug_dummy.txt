@@ -89,3 +89,4 @@ Integrated ethers.js for token transfers #88
 Improved token claim animation #89
 Refactored smart contract handler #90
 Redesigned alert system #91
+Tested cross-chain bridging module #92
