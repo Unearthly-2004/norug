@@ -234,3 +234,4 @@ Integrated ethers.js for token transfers #233
 Tested cross-chain bridging module #234
 Improved token claim animation #235
 Added loading spinner for balance fetch #236
+Tested multisig support #237
