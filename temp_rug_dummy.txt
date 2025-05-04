@@ -191,3 +191,4 @@ Fixed gas fee estimator bug #190
 Improved performance on dashboard load #191
 Fixed race condition in wallet switch #192
 Implemented user role detection #193
+Tested multisig support #194
