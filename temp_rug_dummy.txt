@@ -53,3 +53,4 @@ Tested cross-chain bridging module #52
 Initial layout for NFT viewer #53
 Refactored transaction filter logic #54
 Initial layout for NFT viewer #55
+Implemented user role detection #56
