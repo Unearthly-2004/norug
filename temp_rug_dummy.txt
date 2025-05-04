@@ -10,3 +10,4 @@ Added wallet connection logic #9
 Redesigned alert system #10
 Refactored transaction filter logic #11
 Improved token claim animation #12
+Fixed race condition in wallet switch #13
