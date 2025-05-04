@@ -15,3 +15,4 @@ Tested cross-chain bridging module #14
 Cleaned up console warnings #15
 Initial layout for NFT viewer #16
 Refactored transaction filter logic #17
+Fixed gas fee estimator bug #18
