@@ -83,3 +83,4 @@ Added wallet connection logic #82
 Fixed race condition in wallet switch #83
 Cleaned up console warnings #84
 Fixed race condition in wallet switch #85
+Tested cross-chain bridging module #86
