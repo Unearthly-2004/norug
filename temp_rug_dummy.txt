@@ -94,3 +94,4 @@ Refactored smart contract handler #93
 Improved token claim animation #94
 Initial layout for NFT viewer #95
 Simplified RPC network handling #96
+Fixed gas fee estimator bug #97
