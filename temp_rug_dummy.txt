@@ -132,3 +132,4 @@ Improved token claim animation #131
 Improved transaction view UI #132
 Added loading spinner for balance fetch #133
 Added dark mode toggle #134
+Created staking pool card component #135
