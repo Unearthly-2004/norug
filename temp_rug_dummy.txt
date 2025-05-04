@@ -180,3 +180,4 @@ Added wallet connection logic #179
 Refactored transaction filter logic #180
 Simplified RPC network handling #181
 Improved performance on dashboard load #182
+Improved token claim animation #183
