@@ -126,3 +126,4 @@ Fixed race condition in wallet switch #125
 Refactored smart contract handler #126
 Simplified RPC network handling #127
 Created staking pool card component #128
+Improved token claim animation #129
