@@ -79,3 +79,4 @@ Added dark mode toggle #78
 Redesigned alert system #79
 Improved performance on dashboard load #80
 Redesigned alert system #81
+Added wallet connection logic #82
