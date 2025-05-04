@@ -157,3 +157,4 @@ Improved token claim animation #156
 Created staking pool card component #157
 Refactored transaction filter logic #158
 Refactored smart contract handler #159
+Simplified RPC network handling #160
