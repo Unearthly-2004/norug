@@ -129,3 +129,4 @@ Created staking pool card component #128
 Improved token claim animation #129
 Minor UI fixes for mobile responsiveness #130
 Improved token claim animation #131
+Improved transaction view UI #132
