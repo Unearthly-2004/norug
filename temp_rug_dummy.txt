@@ -121,3 +121,4 @@ Initial layout for NFT viewer #120
 Added dark mode toggle #121
 Improved performance on dashboard load #122
 Tested cross-chain bridging module #123
+Cleaned up console warnings #124
