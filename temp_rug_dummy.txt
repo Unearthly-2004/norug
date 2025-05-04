@@ -59,3 +59,4 @@ Added dark mode toggle #58
 Integrated ethers.js for token transfers #59
 Implemented user role detection #60
 Refactored transaction filter logic #61
+Refactored smart contract handler #62
