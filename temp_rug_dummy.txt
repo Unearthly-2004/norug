@@ -2,3 +2,4 @@ Minor UI fixes for mobile responsiveness #1
 Improved token claim animation #2
 Created staking pool card component #3
 Improved performance on dashboard load #4
+Implemented user role detection #5
