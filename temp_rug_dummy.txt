@@ -223,3 +223,4 @@ Tested cross-chain bridging module #222
 Implemented user role detection #223
 Improved performance on dashboard load #224
 Created staking pool card component #225
+Simplified RPC network handling #226
