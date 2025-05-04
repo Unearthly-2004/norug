@@ -107,3 +107,4 @@ Added dark mode toggle #106
 Integrated ethers.js for token transfers #107
 Refactored smart contract handler #108
 Added dark mode toggle #109
+Created staking pool card component #110
