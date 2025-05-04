@@ -145,3 +145,4 @@ Added wallet connection logic #144
 Tested cross-chain bridging module #145
 Initial layout for NFT viewer #146
 Cleaned up console warnings #147
+Initial layout for NFT viewer #148
