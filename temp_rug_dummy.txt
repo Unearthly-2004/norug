@@ -159,3 +159,4 @@ Refactored transaction filter logic #158
 Refactored smart contract handler #159
 Simplified RPC network handling #160
 Improved transaction view UI #161
+Refactored smart contract handler #162
