@@ -136,3 +136,4 @@ Created staking pool card component #135
 Tested cross-chain bridging module #136
 Added loading spinner for balance fetch #137
 Tested multisig support #138
+Improved transaction view UI #139
