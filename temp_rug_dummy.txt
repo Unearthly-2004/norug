@@ -229,3 +229,4 @@ Cleaned up console warnings #228
 Redesigned alert system #229
 Created staking pool card component #230
 Fixed gas fee estimator bug #231
+Integrated ethers.js for token transfers #232
