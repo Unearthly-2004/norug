@@ -103,3 +103,4 @@ Redesigned alert system #102
 Initial layout for NFT viewer #103
 Cleaned up console warnings #104
 Fixed race condition in wallet switch #105
+Added dark mode toggle #106
