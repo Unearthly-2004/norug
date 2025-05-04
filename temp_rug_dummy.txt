@@ -178,3 +178,4 @@ Initial layout for NFT viewer #177
 Redesigned alert system #178
 Added wallet connection logic #179
 Refactored transaction filter logic #180
+Simplified RPC network handling #181
