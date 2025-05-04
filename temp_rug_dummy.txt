@@ -86,3 +86,4 @@ Fixed race condition in wallet switch #85
 Tested cross-chain bridging module #86
 Added loading spinner for balance fetch #87
 Integrated ethers.js for token transfers #88
+Improved token claim animation #89
