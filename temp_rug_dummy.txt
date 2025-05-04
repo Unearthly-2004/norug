@@ -39,3 +39,4 @@ Tested multisig support #38
 Fixed race condition in wallet switch #39
 Initial layout for NFT viewer #40
 Redesigned alert system #41
+Tested cross-chain bridging module #42
