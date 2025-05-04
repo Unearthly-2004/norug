@@ -170,3 +170,4 @@ Tested multisig support #169
 Fixed race condition in wallet switch #170
 Improved performance on dashboard load #171
 Improved token claim animation #172
+Redesigned alert system #173
