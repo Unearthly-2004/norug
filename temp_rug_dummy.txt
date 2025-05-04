@@ -227,3 +227,4 @@ Simplified RPC network handling #226
 Tested cross-chain bridging module #227
 Cleaned up console warnings #228
 Redesigned alert system #229
+Created staking pool card component #230
