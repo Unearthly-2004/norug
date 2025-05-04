@@ -182,3 +182,4 @@ Simplified RPC network handling #181
 Improved performance on dashboard load #182
 Improved token claim animation #183
 Added dark mode toggle #184
+Refactored transaction filter logic #185
