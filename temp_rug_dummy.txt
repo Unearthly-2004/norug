@@ -165,3 +165,4 @@ Initial layout for NFT viewer #164
 Created staking pool card component #165
 Simplified RPC network handling #166
 Added dark mode toggle #167
+Minor UI fixes for mobile responsiveness #168
