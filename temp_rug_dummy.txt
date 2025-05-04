@@ -141,3 +141,4 @@ Refactored smart contract handler #140
 Created staking pool card component #141
 Added wallet connection logic #142
 Tested cross-chain bridging module #143
+Added wallet connection logic #144
