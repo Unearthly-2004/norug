@@ -244,3 +244,4 @@ Improved transaction view UI #243
 Integrated ethers.js for token transfers #244
 Tested cross-chain bridging module #245
 Improved performance on dashboard load #246
+Added loading spinner for balance fetch #247
