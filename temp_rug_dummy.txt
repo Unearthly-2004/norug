@@ -90,3 +90,4 @@ Improved token claim animation #89
 Refactored smart contract handler #90
 Redesigned alert system #91
 Tested cross-chain bridging module #92
+Refactored smart contract handler #93
