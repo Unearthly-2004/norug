@@ -225,3 +225,4 @@ Improved performance on dashboard load #224
 Created staking pool card component #225
 Simplified RPC network handling #226
 Tested cross-chain bridging module #227
+Cleaned up console warnings #228
