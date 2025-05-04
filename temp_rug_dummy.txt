@@ -106,3 +106,4 @@ Fixed race condition in wallet switch #105
 Added dark mode toggle #106
 Integrated ethers.js for token transfers #107
 Refactored smart contract handler #108
+Added dark mode toggle #109
