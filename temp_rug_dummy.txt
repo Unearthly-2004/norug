@@ -67,3 +67,4 @@ Added wallet connection logic #66
 Tested multisig support #67
 Improved transaction view UI #68
 Improved transaction view UI #69
+Added loading spinner for balance fetch #70
