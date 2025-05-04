@@ -112,3 +112,4 @@ Added dark mode toggle #111
 Added loading spinner for balance fetch #112
 Added loading spinner for balance fetch #113
 Fixed race condition in wallet switch #114
+Minor UI fixes for mobile responsiveness #115
