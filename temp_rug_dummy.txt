@@ -32,3 +32,4 @@ Added loading spinner for balance fetch #31
 Minor UI fixes for mobile responsiveness #32
 Refactored smart contract handler #33
 Redesigned alert system #34
+Improved transaction view UI #35
