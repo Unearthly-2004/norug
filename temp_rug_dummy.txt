@@ -232,3 +232,4 @@ Fixed gas fee estimator bug #231
 Integrated ethers.js for token transfers #232
 Integrated ethers.js for token transfers #233
 Tested cross-chain bridging module #234
+Improved token claim animation #235
