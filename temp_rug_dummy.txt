@@ -36,3 +36,4 @@ Improved transaction view UI #35
 Refactored smart contract handler #36
 Cleaned up console warnings #37
 Tested multisig support #38
+Fixed race condition in wallet switch #39
