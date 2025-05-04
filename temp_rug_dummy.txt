@@ -63,3 +63,4 @@ Refactored smart contract handler #62
 Tested cross-chain bridging module #63
 Refactored transaction filter logic #64
 Implemented user role detection #65
+Added wallet connection logic #66
