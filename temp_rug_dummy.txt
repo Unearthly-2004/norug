@@ -205,3 +205,4 @@ Improved token claim animation #204
 Added dark mode toggle #205
 Tested cross-chain bridging module #206
 Created staking pool card component #207
+Minor UI fixes for mobile responsiveness #208
