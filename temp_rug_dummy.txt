@@ -76,3 +76,4 @@ Integrated ethers.js for token transfers #75
 Refactored transaction filter logic #76
 Improved performance on dashboard load #77
 Added dark mode toggle #78
+Redesigned alert system #79
