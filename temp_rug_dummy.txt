@@ -71,3 +71,4 @@ Added loading spinner for balance fetch #70
 Improved performance on dashboard load #71
 Initial layout for NFT viewer #72
 Refactored transaction filter logic #73
+Created staking pool card component #74
