@@ -212,3 +212,4 @@ Minor UI fixes for mobile responsiveness #211
 Integrated ethers.js for token transfers #212
 Tested multisig support #213
 Improved transaction view UI #214
+Improved token claim animation #215
