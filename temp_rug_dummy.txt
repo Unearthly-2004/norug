@@ -84,3 +84,4 @@ Fixed race condition in wallet switch #83
 Cleaned up console warnings #84
 Fixed race condition in wallet switch #85
 Tested cross-chain bridging module #86
+Added loading spinner for balance fetch #87
