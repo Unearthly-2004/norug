@@ -216,3 +216,4 @@ Improved token claim animation #215
 Added loading spinner for balance fetch #216
 Tested multisig support #217
 Tested multisig support #218
+Improved performance on dashboard load #219
