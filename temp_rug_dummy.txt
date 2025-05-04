@@ -202,3 +202,4 @@ Integrated ethers.js for token transfers #201
 Fixed race condition in wallet switch #202
 Redesigned alert system #203
 Improved token claim animation #204
+Added dark mode toggle #205
