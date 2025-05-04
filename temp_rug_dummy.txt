@@ -161,3 +161,4 @@ Simplified RPC network handling #160
 Improved transaction view UI #161
 Refactored smart contract handler #162
 Refactored transaction filter logic #163
+Initial layout for NFT viewer #164
